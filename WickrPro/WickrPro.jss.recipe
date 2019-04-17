@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of WickrPro and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.cranappras.jss.WickrPro</string>
+	<string>com.github.jss-recipes.jss.WickrPro</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
