@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Comment</key>
-	<string>Created with Recipe Robot v1.1.2 (https://github.com/homebysix/recipe-robot)</string>
+	<string>Created by Cranappras with Recipe Robot v1.1.2 (https://github.com/homebysix/recipe-robot)</string>
 	<key>Description</key>
 	<string>Downloads the latest version of KeePassX and imports it into your JSS.</string>
 	<key>Identifier</key>
@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.cranappras.pkg.KeePassX</string>
+	<string>com.github.homebysix.pkg.KeePassX</string>
 	<key>Process</key>
 	<array>
 		<dict>
@@ -59,6 +59,8 @@
 				<string>%SELF_SERVICE_DESCRIPTION%</string>
 				<key>self_service_icon</key>
 				<string>%SELF_SERVICE_ICON%</string>
+				<key>pkg_path</key>
+        <string>%pkg_path%</string>
 			</dict>
 			<key>Processor</key>
 			<string>JSSImporter</string>
