@@ -12,8 +12,8 @@
 	<dict>
 		<key>NAME</key>
 		<string>WhatsApp</string>
-		<key>BundleID</key>
-		<string>com.WhatsApp.WhatsAppDesktop</string>
+		<key>BUNDLE_ID</key>
+		<string>WhatsApp</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
@@ -23,7 +23,7 @@
 	<array>
 		<dict>
 			<key>Processor</key>
-			<string>AppPkgCreator</string>
+			<string>PkgCreator</string>
 		</dict>
 	</array>
 </dict>
