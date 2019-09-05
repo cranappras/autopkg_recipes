@@ -23,7 +23,12 @@
 	<array>
 		<dict>
 			<key>Processor</key>
-			<string>PkgCreator</string>
+			<string>AppPkgCreator</string>
+			<key>Arguments</key>
+			<dict>
+				<key>bundleid</key>
+				<string>com.WhatsApp.WhatsAppDesktop</string>
+			</dict>
 		</dict>
 	</array>
 </dict>
