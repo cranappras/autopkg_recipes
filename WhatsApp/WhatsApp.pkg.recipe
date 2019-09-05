@@ -10,8 +10,6 @@
 	<string>com.github.cranappras.pkg.WhatsApp</string>
 	<key>Input</key>
 	<dict>
-		<key>BUNDLE_ID</key>
-		<string>WhatsApp</string>
 		<key>NAME</key>
 		<string>WhatsApp</string>
 	</dict>
