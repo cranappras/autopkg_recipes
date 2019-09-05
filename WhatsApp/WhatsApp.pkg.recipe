@@ -12,7 +12,7 @@
 	<dict>
 		<key>NAME</key>
 		<string>WhatsApp</string>
-		<key>BUNDLE_ID</key>
+		<key>BundleID</key>
 		<string>com.WhatsApp.WhatsAppDesktop</string>
 	</dict>
 	<key>MinimumVersion</key>
