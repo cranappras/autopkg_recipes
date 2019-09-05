@@ -11,6 +11,8 @@
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
+		<string>WhatsApp</string>
+		<key>BUNDLE_ID</key>
 		<string>com.WhatsApp.WhatsAppDesktop</string>
 	</dict>
 	<key>MinimumVersion</key>
