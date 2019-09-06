@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of WhatsApp.</string>
 	<key>Identifier</key>
-	<string>com.github.cranappras.download.WhatsApp</string>
+	<string>com.github.cranappras.download.WhatsAppDesktop</string>
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>
