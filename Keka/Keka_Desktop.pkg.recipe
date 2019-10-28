@@ -18,7 +18,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.cranappras.download.Keka</string>
+	<string>com.github.cranappras.download.Keka_Desktop</string>
 	<key>Process</key>
 	<array>
 		<dict>
