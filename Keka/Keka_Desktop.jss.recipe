@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.cranappras.pkg.Keka</string>
+	<string>com.github.cranappras.pkg.Keka_Desktop</string>
 	<key>Process</key>
 	<array>
 		<dict>
