@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Keka.</string>
 	<key>Identifier</key>
-	<string>com.github.cranappras.download.Keka</string>
+	<string>com.github.cranappras.download.Keka_Desktop</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

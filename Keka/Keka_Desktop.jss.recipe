@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Keka and imports it into your JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.Keka</string>
+	<string>com.github.jss-recipes.jss.Keka_Desktop</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
