@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
   <key>Description</key>
-  <string>Packages the latest version of Tableau Prep.</string>
+  <string>Downloads and Packages the latest version of Tableau Prep Builder.</string>
   <key>Identifier</key>
-  <string>com.github.cranappras.pkg.TableauPrep</string>
+  <string>com.github.cranappras.pkg.TableauPrepBuilder</string>
   <key>Input</key>
   <dict>
     <key>NAME</key>
-    <string>TableauPrep</string>
+    <string>TableauPrepBuilder</string>
   </dict>
   <key>MinimumVersion</key>
   <string>0.3.1</string>
@@ -47,7 +47,7 @@
       <key>Arguments</key>
       <dict>
         <key>pattern</key>
-        <string>%RECIPE_CACHE_DIR%/payload/Tableau Prep*.app</string>
+        <string>%RECIPE_CACHE_DIR%/payload/Tableau Prep Builder*.app</string>
       </dict>
       <key>Processor</key>
       <string>FileFinder</string>
