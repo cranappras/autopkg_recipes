@@ -67,7 +67,7 @@
       <string>PlistReader</string>
     </dict>
     <dict>
-      <key>Argument</key>
+      <key>Arguments</key>
       <dict>
         <key>pkg_path</key>
         <string>%RECIPE_CACHE_DIR%/Tableau Prep Builder-%version%.pkg</string>
