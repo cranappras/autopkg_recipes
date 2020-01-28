@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>Comment</key>
+  <string>Created by Joshua Smith - 01/28/2020</string>
   <key>Description</key>
   <string>Downloads the latest version of Tableau Prep Builder and makes a pkg of it then uploads it to Jamf Pro.</string>
   <key>Identifier</key>
