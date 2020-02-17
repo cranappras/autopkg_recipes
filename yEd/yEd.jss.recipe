@@ -46,7 +46,7 @@
             <key>smart</key>
             <true/>
             <key>template_path</key>
-            <string>%GROUP_TEMPLATE</string>
+            <string>%GROUP_TEMPLATE%</string>
           </dict>
         </array>
         <key>policy_category</key>
