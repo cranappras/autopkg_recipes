@@ -44,7 +44,7 @@
           <string>Apple Root CA</string>
         </array>
         <key>input_path</key>
-        <string>%pathname%/OpenVPN Connect Installer_signed.pkg</string>
+        <string>%pathname%/OpenVPN_Connect_Installer_signed.pkg</string>
       </dict>
       <key>Processor</key>
       <string>CodeSignatureVerifier</string>
