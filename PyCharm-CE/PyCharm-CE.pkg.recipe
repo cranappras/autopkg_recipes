@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>Comment</key>
-	<string>Created by Joshua Smith on 05/05/2020</string>
+	<string>Created by Joshua Smith (Cranaprpas) on 05/06/2020</string>
 	<key>Description</key>
-	<string>Downloads the latest version of PyCharm Professional Edition and creates a package.</string>
+	<string>Downloads the latest version of PyCharm Community Edition and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.github.cranappras.pkg.PyCharm-PE</string>
+	<string>com.github.cranappras.pkg.PyCharm-CE</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>
@@ -15,12 +15,12 @@
 		<key>BUNDLE_ID</key>
 		<string>com.jetbrains.pycharm</string>
 		<key>NAME</key>
-		<string>PyCharm Professional Edition</string>
+		<string>PyCharm CE</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.bnpl.autopkg.download.pycharmpe</string>
+	<string>com.github.bnpl.autopkg.download.pycharmce</string>
 	<key>Process</key>
 	<array>
 		<dict>

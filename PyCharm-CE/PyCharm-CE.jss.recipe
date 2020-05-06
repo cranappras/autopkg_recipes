@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>Comment</key>
-	<string>Created by Joshua Smith on 05/05/2020</string>
+	<string>Created by Joshua Smith on 05/06/2020</string>
 	<key>Description</key>
-	<string>Downloads the latest version of PyCharm Professional Edition, creates a package, and imports it in to Jamf Pro.</string>
+	<string>Downloads the latest version of PyCharm Community Edition, creates a package, and imports it in to Jamf Pro.</string>
 	<key>Identifier</key>
-	<string>com.github.cranappras.jss.PyCharm-PE</string>
+	<string>com.github.cranappras.jss.PyCharm-CE</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -17,20 +17,20 @@
 		<key>GROUP_TEMPLATE</key>
 		<string>SmartGroupTemplate.xml</string>
 		<key>NAME</key>
-		<string>PyCharm PE</string>
+		<string>PyCharm CE</string>
 		<key>POLICY_CATEGORY</key>
 		<string>Testing</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string>For both Scientific and Web Python development. With HTML, JS, and SQL support.</string>
+		<string>PyCharm is an Integrated Development Environment (IDE) used for programming in Python. It provides code analysis, a graphical debugger, an integrated unit tester, integration with version control systems (VCSes), and supports web development with Django.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>%NAME%.png</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.cranappras.pkg.PyCharm-PE</string>
+	<string>com.github.cranappras.pkg.PyCharm-CE</string>
 	<key>Process</key>
 	<array>
 		<dict>
