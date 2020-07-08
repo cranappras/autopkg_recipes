@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Comment</key>
-	<string>Created with Recipe Robot v1.1.2 (https://github.com/homebysix/recipe-robot)</string>
+	<string>Created by Joshua Smith on 12/16/2019</string>
 	<key>Description</key>
-	<string>Downloads the latest version of WickrPro and imports it into your JSS.</string>
+	<string>Downloads the latest version of WickrPro, packages the application, and imports it into Jamf Pro.</string>
 	<key>Identifier</key>
 	<string>com.github.jss-recipes.jss.WickrPro</string>
 	<key>Input</key>
