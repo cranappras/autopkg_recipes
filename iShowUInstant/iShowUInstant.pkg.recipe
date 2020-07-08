@@ -7,7 +7,7 @@
   <key>Description</key>
   <string>Downloads the latest version of iShowU Instant and creates a package.</string>
   <key>Identifier</key>
-  <string>com.github.cranappras.pkg.iShowuInstant</string>
+  <string>com.github.cranappras.pkg.iShowUInstant</string>
   <key>Input</key>
   <dict>
     <key>NAME</key>
