@@ -18,7 +18,7 @@
   <key>MinimumVersion</key>
   <string>1.0.0</string>
   <key>ParentRecipe</key>
-  <string>com.github.andrewvalentine.munki.ishowuinstant</string>
+  <string>com.github.andrewvalentine.download.ishowuinstant</string>
   <key>Process</key>
   <array>
     <dict>
