@@ -3,34 +3,34 @@
 <plist version="1.0">
 <dict>
 	<key>Comment</key>
-	<string>Created by Joshua Smith on 05/13/2020</string>
+	<string>Created by Joshua Smith on 04/09/2021</string>
 	<key>Description</key>
-	<string>Downloads the latest version of Emacs for macOS, creates a package, and imports it in to Jamf Pro.</string>
+	<string>Downloads the latest version of Draw.IO for macOS, creates a package, and imports it in to Jamf Pro.</string>
 	<key>Identifier</key>
-	<string>com.github.cranappras.jss.EmacsForMacOSX</string>
+	<string>com.github.cranappras.jss.DrawIO</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
-		<string>Development</string>
+		<string>Creative</string>
 		<key>GROUP_NAME</key>
 		<string>%NAME%-update-smart</string>
 		<key>GROUP_TEMPLATE</key>
 		<string>SmartGroupTemplate.xml</string>
 		<key>NAME</key>
-		<string>Emacs</string>
+		<string>Draw.IO</string>
 		<key>POLICY_CATEGORY</key>
 		<string>Testing</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string>An extensible, customizable, free/libre text editor — and more.</string>
+		<string>Security-first diagramming for teams.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>%NAME%.png</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.fishd72.pkg.EmacsForOSX</string>
+	<string>com.github.ahousseini-recipes.pkg.drawio</string>
 	<key>Process</key>
 	<array>
 		<dict>
