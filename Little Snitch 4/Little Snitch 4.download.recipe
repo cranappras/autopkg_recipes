@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>Description</key>
-        <string>Downloads Little Snitch 4 for Catalina</string>
+        <string>Downloads Little Snitch 4 for Catalina. Modified copy of the original recipe created by smithjw.</string>
         <key>Identifier</key>
         <string>com.github.cranappras.download.LittleSnitch4</string>
         <key>Input</key>
