@@ -11,7 +11,7 @@
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>
-		<string>https://enterprise-download.wickr.com/api/download/latest/pro/mac</string>
+		<string>https://pro-download.wickr.com/api/download/latest/pro/mac</string>
 		<key>NAME</key>
 		<string>WickrPro</string>
 	</dict>
