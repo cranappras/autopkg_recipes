@@ -13,7 +13,7 @@
 		<key>NAME</key>
 		<string>Postgres</string>
 		<key>SPARKLE_FEED_URL</key>
-		<string>https://postgresapp.com/sparkle/updates_10_11_12.xml</string>
+		<string>https://postgresapp.com/sparkle/updates_15.xml</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
