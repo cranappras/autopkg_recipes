@@ -11,7 +11,7 @@
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>
-		<string>https://web.whatsapp.com/desktop/mac/files/WhatsApp.dmg</string>
+		<string>https://web.whatsapp.com/desktop/mac_native/release/?configuration=Release</string>
 		<key>NAME</key>
 		<string>WhatsApp</string>
 	</dict>
