@@ -5,20 +5,20 @@
 	<key>Comment</key>
 	<string>Created with Recipe Robot v2.3.1 (https://github.com/homebysix/recipe-robot)</string>
 	<key>Description</key>
-	<string>Downloads the latest version of Cisco Webex and uploads the package to Jamf.</string>
+	<string>Downloads the latest version of Webex and uploads the package to Jamf.</string>
 	<key>Identifier</key>
-	<string>com.github.cranappras.jamf.webex</string>
+	<string>com.github.cranappras.jamf.Webex</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
-		<string>Communication</string>
+		<string>Productivity</string>
 		<key>NAME</key>
 		<string>Webex</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>2.3</string>
 	<key>ParentRecipe</key>
-	<string>com.github.smithjw.pkg.webex</string>
+	<string>com.github.cranappras.pkg.Webex</string>
 	<key>Process</key>
 	<array>
 		<dict>
